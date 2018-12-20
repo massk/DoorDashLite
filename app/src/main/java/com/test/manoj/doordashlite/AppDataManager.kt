@@ -3,7 +3,6 @@ package com.test.manoj.doordashlite
 import com.test.manoj.doordashlite.model.AppDbHelper
 import com.test.manoj.doordashlite.network.DataManager
 import com.test.manoj.doordashlite.network.Restaurant
-import com.test.manoj.doordashlite.network.RestaurantsRecords
 import io.reactivex.Observable
 import javax.inject.Inject
 

@@ -4,7 +4,6 @@ import android.util.Log
 import com.test.manoj.doordashlite.network.ApiHelper
 import com.test.manoj.doordashlite.network.ApiService
 import com.test.manoj.doordashlite.network.Restaurant
-import com.test.manoj.doordashlite.network.RestaurantsRecords
 import io.reactivex.Observable
 import timber.log.Timber
 import javax.inject.Inject

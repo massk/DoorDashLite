@@ -4,7 +4,6 @@ import android.app.Application
 import com.test.manoj.doordashlite.network.DataManager
 import android.arch.lifecycle.AndroidViewModel
 import com.test.manoj.doordashlite.network.Restaurant
-import com.test.manoj.doordashlite.network.RestaurantsRecords
 import io.reactivex.Observable
 import io.reactivex.schedulers.Schedulers
 
