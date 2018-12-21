@@ -1,7 +1,7 @@
 # DoorDashLite
 The Bird Eye view for the application architecture is attached below in the picture.
 
-![alt text](/Users/manojkamde/Desktop/Screen Shot 2018-12-20 at 11.35.44 PM.png)
+![alt text](architecture-overview.jpg)
 
 The follows the principal of MVVM architecture. 
 -The View (UI part), 
