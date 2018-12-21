@@ -12,3 +12,6 @@ The follows the principal of MVVM architecture.
 -The View-Model, 
 This framework helps in keeping UI component independent of Model component. This help in avoiding the blocking operation such as network operation to be coupled with UI, also it's a great help in writing the unit tests as all these architecture component can be tested separately without any dependence on each other.
 
+# The Object Model
+The following picture gives the idea of application obejcts model and their relations.
+![alt Object Model](object-model.jpg)
