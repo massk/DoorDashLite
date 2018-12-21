@@ -3,7 +3,7 @@ The Bird Eye view for the application architecture is attached below in the pict
 
 ![alt text](architecture-overview.jpg)
 
-The follows the principal of MVVM architecture. <br />
+This follows the principal of MVVM architecture. <br />
 -The View (UI part), <br />
 -The Model <br />
     	Contains client based SQLite database for quick access and smooth functioning of data displayed to the user via UI component. This is useful when there is no new data update from backend, or the data is being downloaded from cloud is having som latency or the device is in offline condition.<br />
