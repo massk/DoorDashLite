@@ -1,5 +1,5 @@
 # DoorDashLite
-The Bird Eye view for the application architecture is attached below in the picture.
+The Bird Eye view for the application architecture is attached below.
 
 ![alt text](architecture-overview.jpg)
 
