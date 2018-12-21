@@ -4,29 +4,13 @@ package com.test.manoj.doordashlite
 import android.content.Context
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
-import android.support.v7.widget.RecyclerView
-import android.view.LayoutInflater
-import android.view.View
-import com.bumptech.glide.Glide
-import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
 import com.test.manoj.doordashlite.network.Restaurant
 import com.test.manoj.doordashlite.ui.RestaurantsAdapter
-import kotlinx.android.synthetic.main.restaurent_list_item.view.*
 import org.junit.Before
 import org.junit.Test
 import org.junit.runner.RunWith
 import kotlin.test.assertEquals
 import kotlin.test.assertNotNull
-import android.view.ViewGroup
-import android.widget.ImageView
-import org.mockito.Mockito.mock
-import org.mockito.Mockito.`when`
-import org.mockito.Mockito.`when`
-
-
-
-
-
 
 
 //
