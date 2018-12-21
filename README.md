@@ -14,4 +14,4 @@ This framework helps in keeping UI component independent of Model component. Thi
 
 # The Object Model
 The following picture gives the idea of application obejcts model and their relations.
-![alt Object Model](/Users/manojkamde/Downloads/Projects/DoorDashLite/object-model.jpg)
+![alt Object Model](object-model.jpg)
